@@ -1,2 +1,2 @@
-# proyecto-_landing-_page-_nuevo
+# proyecto-landing-page-responsive
 proyecto landing page actualizado
